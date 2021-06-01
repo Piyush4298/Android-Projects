@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Dice Roller</string>
+    <string name="roll">Roll</string>
+    <string name="count_up">Count Up</string>
+    <string name="welcome_to_dice">Weclome! Roll the dice</string>
+    <string name="clear">Clear</string>
+    <string name="dice">Dice</string>
+</resources>

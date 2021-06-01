@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GPS_tracker</string>
+    <string name="Get_Location">Get Location</string>
+    <string name="current_loc">Your Location</string>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">StorageR&amp;W</string>
+    <string name="RandWInternalStorage">RandW Internal Storage</string>
+    <string name="save_button">SAVE</string>
+    <string name="read_button">READ</string>
+    <string name="display_text">Display</string>
+    <string name="editText">Whatever you want to write</string>
+</resources>

@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="piyush_pandey">Piyush Pandey</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">Hi, my name is Piyush.
+        \n\nI love Badminton.
+        \n\nI wish that this love could have been realised by me a bit earlier.
+        \nFun fact is that I did realised it but did not find myself fitting to that frame of playing.
+        \n\nI like playing badminton. It refreshes my mind - actually my soul.
+        \nAnd sometimes I even forget all my tensions and just go crazy behind playing.
+        \nAnd even I forget my senses, I do not kind of feel pain.
+        \n\nOnce, when I was in my hostel, I saw one of my seniors playing the game so well.
+        \n\nIt made me ask him that from when was he playing badminton. Getting shocked by his answer
+        \nI came to know that he was playing this from past 13 years and his age was 17.
+        \n\nSince then my love towards badminton reached to the level of Romeo And Juliet!
+        \n\n</string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
+    <string name="done">Done</string>
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">multiScreen</string>
+    <string name="third_page">GoTo</string>
+    <string name="final_activity">Welcome To Final Activity</string>
+</resources>
